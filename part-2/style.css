@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+    color: wheat
+}
+
+.name {
+     color: chartreuse;
+}
+
+.username {
+    font-size: 2rem;
+    color: chartreuse;
+}
+
+.message {
+    font-style: italic;
+    color: chartreuse;
+}
